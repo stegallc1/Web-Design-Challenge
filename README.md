@@ -1,3 +1,3 @@
 ﻿# Web Design Homework - Web Visualization Dashboard (Latitude)
 
-https://github.com/cantugabriela/Web-Visualization-Dashboard
+https://github.com/stegallc1/Web-Design-Challenge
